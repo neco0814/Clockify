@@ -14,18 +14,18 @@
 　　・GやSを押しながらRを押すことで表示位置/サイズをリセットできます。
 
 ・時計の色変更・縁取りの設定
-　・clock_Data/StreamingAssets/clock/Config.jsonを編集することで時計の文字色と縁取りの色、縁取りの太さを設定することができます。
+　・Clockify_Data/StreamingAssets/clock/Config.jsonを編集することで時計の文字色と縁取りの色、縁取りの太さを設定することができます。
 　　・詳しくは同じフォルダに置いてあるテキストファイルをお読みください。
 
 ・背景の表示
-　・clock_Data/StreamingAssets/BGに画像ファイルを置くことで背景画像を表示することができます。
+　・Clockify_Data/StreamingAssets/BGに画像ファイルを置くことで背景画像を表示することができます。
 　　・1920*1080のpng形式をサポートしています。他のサイズでは確認していませんのでご了承ください。
 　・このフォルダに複数の画像を置くことでスライドショーにすることが可能です。
-　　・clock_Data/StreamingAssets/clock/Config.jsonを編集することでスライドショーの設定が可能です。詳しくは同じフォルダに置いてあるテキストファイルをお読みください。
+　　・Clockify_Data/StreamingAssets/clock/Config.jsonを編集することでスライドショーの設定が可能です。詳しくは同じフォルダに置いてあるテキストファイルをお読みください。
 
 ・時報
 　・毎時0分に時報を鳴らします。
-　・clock_Data/StreamingAssets/TimeSignalにある音声ファイルを差し替えることで時報の音声を変えることができます。
+　・Clockify_Data/StreamingAssets/TimeSignalにある音声ファイルを差し替えることで時報の音声を変えることができます。
 　　・ファイル名は00~23の連番で、それぞれ0時~23時に対応しています。
 　　・mp3形式のみサポートしています。
 
