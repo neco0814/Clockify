@@ -1,0 +1,7 @@
+{
+    "textColor": "#ed4fed",
+    "outlineColor": "#00facc",
+    "outlineThickness": 1.3,
+    "isBGChangeAt00min": true,
+    "BGChangeInterval": 30
+}
